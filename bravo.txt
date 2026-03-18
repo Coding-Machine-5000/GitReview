@@ -1,0 +1,6 @@
+BBBBB           kk             
+BB   B    aa aa kk  kk   aa aa 
+BBBBBB   aa aaa kkkkk   aa aaa 
+BB   BB aa  aaa kk kk  aa  aaa 
+BBBBBB   aaa aa kk  kk  aaa aa 
+                               
